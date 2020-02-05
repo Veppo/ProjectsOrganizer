@@ -1,4 +1,4 @@
-## :rocket: Rocketseat - Conceitos do NodeJS
+## :rocket: Rocketseat - NodeJS Concepts
 
 This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp). Created according to the [Challenge rules](https://github.com/Rocketseat/bootcamp-gostack-desafio-01/blob/master/README.md#desafio-01-conceitos-do-nodejs).
 
