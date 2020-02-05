@@ -22,3 +22,6 @@ $ yarn start
 
 ## :memo: License
 This project is under the MIT license. See the [LICENSE](https://github.com/Veppo/ProjectsOrganizer/blob/master/LICENSE) for more information.
+
+[nodejs]: https://nodejs.org/
+[yarn]: https://yarnpkg.com/
